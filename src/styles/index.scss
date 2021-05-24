@@ -1,0 +1,23 @@
+@import "./element-ui.scss";
+@import "./mixin.scss";
+@import "./sidebar.scss";
+@import "./transition.scss";
+@import "./variables.module.scss";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  color: #2c3e50;
+  a {
+    color: #42b983;
+  }
+  h1 {
+    padding: 0;
+    margin: 0;
+  }
+}
