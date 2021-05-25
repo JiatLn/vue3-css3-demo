@@ -53,6 +53,18 @@ export const routes = [
         name: 'demo5',
         meta: { title: '一个按钮效果', icon: 'el-icon-collection-tag' },
       },
+      {
+        path: 'demo6',
+        component: () => import('@/views/css3demo/demo6.vue'),
+        name: 'demo6',
+        meta: { title: 'CSS @Property', icon: 'el-icon-collection-tag' },
+      },
+      {
+        path: 'demo7',
+        component: () => import('@/views/css3demo/demo7.vue'),
+        name: 'demo7',
+        meta: { title: '仿饿了么', icon: 'el-icon-collection-tag' },
+      },
     ],
   },
   // {

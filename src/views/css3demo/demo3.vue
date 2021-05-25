@@ -18,14 +18,7 @@ $logoSize: 300px;
 $scaleX: 0.6;
 
 .warpper {
-  width: 100%;
-  height: 100%;
-
   background-color: #080c1e;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
 
   .logo {
     position: relative;

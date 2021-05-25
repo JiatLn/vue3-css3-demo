@@ -19,14 +19,7 @@
 
 <style lang="scss" scoped>
 .warpper {
-  width: 100%;
-  height: 100%;
-
   background-color: #080c1e;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
 
   .heart-outer {
     width: 80px;

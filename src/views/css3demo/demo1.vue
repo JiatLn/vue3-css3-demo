@@ -15,12 +15,8 @@
 
 <style lang="scss" scoped>
 .warpper {
-  height: 100%;
-  width: 100%;
   background-color: #d3ddbd;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
   .bowl {
     width: 200px;
     height: 200px;

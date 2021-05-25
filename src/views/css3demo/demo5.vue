@@ -15,12 +15,8 @@ const onClickHandle = (arg) => {
 
 <style lang="scss" scoped>
 .warpper {
-  width: 100%;
-  height: 100%;
   background-color: black;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
   .button {
     display: flex;
     justify-content: center;

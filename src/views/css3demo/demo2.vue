@@ -17,13 +17,7 @@ $bgc: #fff4e8;
 $windowColor: #d4e8f9;
 
 .warpper {
-  height: 100%;
-  width: 100%;
   background-color: $bgc;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
 
   /* 窗户 */
   .window {
