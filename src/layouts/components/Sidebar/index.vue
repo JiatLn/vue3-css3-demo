@@ -1,7 +1,7 @@
 <template>
   <div class="side-bar">
     <el-menu
-      :uniqueOpened="true"
+      :uniqueOpened="false"
       :default-active="activeMenu"
       class="el-menu-vertical-demo"
       :background-color="variables.menuBg"
